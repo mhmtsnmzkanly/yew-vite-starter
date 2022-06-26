@@ -1,0 +1,1 @@
+@c.bat wpb && @c.bat vb
